@@ -1,0 +1,20 @@
+{
+  "name": "beer-me",
+  "version": "1.0.0",
+  "description": "beer-me that water! An app that lets you beer-me the food that you crave right now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytambe31/beer-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytambe31/beer-me/issues"
+  },
+  "homepage": "https://github.com/andytambe31/beer-me#readme"
+}
